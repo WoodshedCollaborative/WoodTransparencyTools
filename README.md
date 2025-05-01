@@ -5,3 +5,5 @@ Feel free to download, adapt to your practice, and see what you learn about wher
 
 These tools have been created by a band of Architecture, Engineering, and Construction Professionals, working through and alongside their projects to strengthen our forests and the people that steward them.
 We make no claims to the applicability, acceptability, or even cold hard accuracy of these tools as it relates to the projects they might be used on.  These are for teams to adapt and apply as they see fit.
+
+More informed and intentional sourcing begins with Transparency.
