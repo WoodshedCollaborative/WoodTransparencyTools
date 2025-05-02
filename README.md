@@ -1,5 +1,5 @@
-# TimberTransparencyTools
-Template Specifications, Disclosure Forms, and Resources to support more transparent sourcing of timber for building design projects.
+# WoodTransparencyTools
+Template Specifications, Disclosure Forms, and Resources to support more transparent sourcing of wood for building design projects.
 
 Feel free to download, adapt to your practice, and see what you learn about where your project's wood comes from. We invite you to contribute to the discussion here, so that we may all learn forward together.
 
